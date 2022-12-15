@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Ciclos {
 
     public static void main(String[] args) {
-        
+        //github.com/jhonpraxedes/ciclos_swich.git
         int i;
         for(i=1;i<11;i++){
             System.out.println("usando for"+i);
